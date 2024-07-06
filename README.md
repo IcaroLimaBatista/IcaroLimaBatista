@@ -31,7 +31,7 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCJJ-cljna4-He0o55PJrWVQ" target="_blank"><img src="https://imgs.search.brave.com/srjEHDWFtN1UHdAyTxZDOniu4ntFD8DPc6bLinxIKGo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1NDUu/cG5n" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCJJ-cljna4-He0o55PJrWVQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/icaro_lb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%ADcaro-lima-361aa1188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:devicaro2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
