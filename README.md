@@ -2,15 +2,15 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o Ícaro Lima 😃️
+    Hi. how are you? I'm Ícaro Lima 😉
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e Desenvolvedor Unreal, sou apaixonado por tecnologia. 😃️
+    I am a Front-End Developer, Unreal Developer, and Software Engineering student.💻🎓
   </p>
   
   <p align="center">
-    Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, valeu mesmo! 😉️
+    Follow me and let's code together. Also, check out my YouTube channel where I share my experiences. Thanks a lot! 😎
   </p>
   
 </div>
@@ -26,12 +26,12 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jQuery" height="40" width="40" src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </div><br>
 
 <div align="center">
+  <a href="https://www.youtube.com/channel/UCJJ-cljna4-He0o55PJrWVQ" target="_blank"><img src="https://imgs.search.brave.com/srjEHDWFtN1UHdAyTxZDOniu4ntFD8DPc6bLinxIKGo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1NDUu/cG5n" target="_blank"></a>
   <a href="https://www.instagram.com/icaro_lb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%ADcaro-lima-361aa1188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:devicaro2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
