@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I am a Front-End Developer, Unreal Developer, and Software Engineering student.💻🎓
+    I am a Back-End Developer, Unreal Developer, and Software Engineering student.💻🎓
   </p>
   
   <p align="center">
@@ -32,7 +32,6 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCJJ-cljna4-He0o55PJrWVQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/icaro_lb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%ADcaro-lima-361aa1188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:devicaro2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
