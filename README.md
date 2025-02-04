@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I am a Back-End Developer, Unreal Developer, and Software Engineering student.💻🎓
+    I am a Android Developer, and Software Engineering student.💻🎓
   </p>
   
   <p align="center">
