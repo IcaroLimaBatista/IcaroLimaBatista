@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="RUBY" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
