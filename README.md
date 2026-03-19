@@ -6,11 +6,11 @@
   </h1>
   
   <p align="center">
-    I am a Backend Developer, and Software Engineering student.💻🎓
+    I am a Backend Developer and Software Engineering student.💻🎓
   </p>
   
   <p align="center">
-    Follow me and let's code together. Also, check out my YouTube channel where I share my experiences. Thanks a lot! 😎
+    Follow me and let's code together. Thanks a lot! 😎
   </p>
   
 </div>
