@@ -8,14 +8,6 @@
   <p align="center">
     🎓 Cybersecurity student - 💻 Background in Software Development - 🔐 Interested in Information Security and Cloud Security
   </p>
-  
-</div>
-
-<div align="center">
-  <a href="https://github.com/IcaroLimaBatista">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IcaroLimaBatista&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroLimaBatista&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
 </div>
 
 <div align="center" valign="top"><br>
