@@ -9,10 +9,6 @@
     🎓 Cybersecurity student - 💻 Background in Software Development - 🔐 Interested in Information Security and Cloud Security
   </p>
   
-  <p align="center">
-    Follow me and let's code together. Thanks a lot! 😎
-  </p>
-  
 </div>
 
 <div align="center">
