@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I am a Backend Developer and Software Engineering student.💻🎓
+    🎓 Cybersecurity student - 💻 Background in Software Development - 🔐 Interested in Information Security and Cloud Security
   </p>
   
   <p align="center">
